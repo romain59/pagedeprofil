@@ -1,20 +1,25 @@
-h1 {
-    text-align: center;
-    font-family: Verdana;
-    color: orangered;
+body {
+    background-color: #fff8db;
+    font-family: Arial;
+    font-size: 20px;
+    color: #e94e07;
 }
 
-h2 {
+
+h1,h2 {
+    color: #ff5d15;
     text-align: center;
-    font-family: Arial;
-    color: orange;
+    font-family: Verdana;
+    font-size: 30px;
+    line-height: 1.5;
 }
 
 p {
     margin-top: 100px;
     text-align: center;
-    font-family: Arial;
-    font-size: 20px;
+}
+a {
+   color: green;
 }
 
 .img1 {
@@ -24,12 +29,12 @@ p {
     border-radius: 10px;
     position: absolute;
     top: 3%;
-    left: 21%;
+    left: 19%;
 }
 
 .film {
     position: absolute;
-    margin-top: 80px;
+    margin-top: 40px;
     margin-left:  23%;
     font-family: Arial;
     font-size: 18px;
@@ -40,7 +45,7 @@ p {
 
 .centre {
     position: absolute;
-    margin-top: 80px;
+    margin-top: 40px;
     margin-left:  46%;
     font-family: Arial;
     font-size: 18px;
@@ -50,7 +55,7 @@ p {
 }
 .acteur{
     position: absolute;
-    margin-top: 80px;
+    margin-top: 40px;
     margin-left:  63%;
     font-family: Arial;
     font-size: 18px;
