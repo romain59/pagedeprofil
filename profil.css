@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    font-family: Verdana;
+    color: orangered;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial;
+    color: orange;
+}
+
+p {
+    margin-top: 100px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.img1 {
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    position: absolute;
+    top: 3%;
+    left: 21%;
+}
+
+.film {
+    position: absolute;
+    margin-top: 80px;
+    margin-left:  23%;
+    font-family: Arial;
+    font-size: 18px;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.centre {
+    position: absolute;
+    margin-top: 80px;
+    margin-left:  46%;
+    font-family: Arial;
+    font-size: 18px;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    padding: 20px;
+}
+.acteur{
+    position: absolute;
+    margin-top: 80px;
+    margin-left:  63%;
+    font-family: Arial;
+    font-size: 18px;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.img2 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 3%;
+    left: 30%;
+}
+.img3 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 3%;
+    left: 50%;
+}
+.img4 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 3%;
+    left: 70%;
+}
+
+
+
+
+
+
+
+
+
+
