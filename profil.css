@@ -5,6 +5,9 @@ body {
     color: #e94e07;
 }
 
+div {
+    margin: 20px;
+}
 
 h1,h2 {
     color: #ff5d15;
@@ -12,78 +15,92 @@ h1,h2 {
     font-family: Verdana;
     font-size: 30px;
     line-height: 1.5;
+    position: relative;
+    top:10%;
+    left: 2%;
 }
 
 p {
-    margin-top: 100px;
+    position: relative;
+    top:50px;
+    left: 50px;
     text-align: center;
 }
 a {
    color: green;
 }
 
+#block {
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    top: 70px;
+
+}
+
+#block2 {
+    position: relative;
+    left: 10px;
+    display: inline-block;
+    top: 90px;
+    left: 42%;
+
+}
+
 .img1 {
+    position: relative;
+    display: inline-block;
     height: 150px;
     width: 150px;
     border: 2px solid rgb(233, 72, 21);
     border-radius: 10px;
-    position: absolute;
-    top: 3%;
-    left: 19%;
+    top: -280px;
+    left: 16%;
 }
 
 .film {
-    position: absolute;
-    margin-top: 40px;
-    margin-left:  23%;
     font-family: Arial;
     font-size: 18px;
     border: 2px solid rgb(233, 72, 21);
     border-radius: 10px;
     padding: 20px;
+    display: inline-block;
 }
 
 .centre {
-    position: absolute;
-    margin-top: 40px;
-    margin-left:  46%;
     font-family: Arial;
     font-size: 18px;
     border: 2px solid rgb(233, 72, 21);
     border-radius: 10px;
     padding: 20px;
+    display: inline-block;
+    margin: 30px;
 }
 .acteur{
-    position: absolute;
-    margin-top: 40px;
-    margin-left:  63%;
+
     font-family: Arial;
     font-size: 18px;
     border: 2px solid rgb(233, 72, 21);
     border-radius: 10px;
     padding: 20px;
+    display: inline-block;
 }
 
 .img2 {
-    height: 100px;
-    width: 100px;
-    position: absolute;
-    bottom: 3%;
-    left: 30%;
+    height: 80px;
+    width: 80px;
 }
 .img3 {
-    height: 100px;
-    width: 100px;
-    position: absolute;
-    bottom: 3%;
-    left: 50%;
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+
 }
 .img4 {
-    height: 100px;
-    width: 100px;
-    position: absolute;
-    bottom: 3%;
-    left: 70%;
+    height: 80px;
+    width: 80px;
 }
 
 
